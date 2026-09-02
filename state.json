@@ -1,0 +1,146 @@
+{
+  "starting_capital": 100000.0,
+  "cash": 142.72172941589815,
+  "holdings": {
+    "XLK": 179,
+    "XLE": 524,
+    "XLV": 0,
+    "XLY": 0,
+    "XLF": 0,
+    "XLP": 0,
+    "XLI": 0,
+    "XLB": 0,
+    "XLU": 0,
+    "SPY": 0,
+    "GLD": 82,
+    "TLT": 0,
+    "SHY": 0
+  },
+  "last_rebalanced_period": "2026-09",
+  "created_at": "2026-08-29T23:05:01.209523+00:00",
+  "equity_curve": [
+    {
+      "date": "2026-08-29",
+      "equity": 99895.75
+    },
+    {
+      "date": "2026-08-29",
+      "equity": 99895.75
+    },
+    {
+      "date": "2026-08-30",
+      "equity": 99895.75
+    },
+    {
+      "date": "2026-08-30",
+      "equity": 99895.75
+    },
+    {
+      "date": "2026-08-30",
+      "equity": 99895.75
+    },
+    {
+      "date": "2026-08-30",
+      "equity": 99895.75
+    },
+    {
+      "date": "2026-08-31",
+      "equity": 99895.75
+    },
+    {
+      "date": "2026-09-01",
+      "equity": 100531.7
+    },
+    {
+      "date": "2026-09-01",
+      "equity": 100531.7
+    },
+    {
+      "date": "2026-09-01",
+      "equity": 100531.7
+    },
+    {
+      "date": "2026-09-01",
+      "equity": 100531.7
+    },
+    {
+      "date": "2026-09-01",
+      "equity": 100531.7
+    },
+    {
+      "date": "2026-09-02",
+      "equity": 99487.26
+    },
+    {
+      "date": "2026-09-02",
+      "equity": 99487.26
+    },
+    {
+      "date": "2026-09-02",
+      "equity": 99487.26
+    }
+  ],
+  "trade_log": [
+    {
+      "date": "2026-08-29",
+      "symbol": "XLK",
+      "action": "BUY",
+      "shares": 179,
+      "price": 185.69,
+      "amount": 33238.51,
+      "trading_cost": 34.13,
+      "reason": "monthly_rebalance"
+    },
+    {
+      "date": "2026-08-29",
+      "symbol": "XLE",
+      "action": "BUY",
+      "shares": 531,
+      "price": 62.68,
+      "amount": 33283.08,
+      "trading_cost": 35.94,
+      "reason": "monthly_rebalance"
+    },
+    {
+      "date": "2026-08-29",
+      "symbol": "XLV",
+      "action": "BUY",
+      "shares": 194,
+      "price": 171.16,
+      "amount": 33205.04,
+      "trading_cost": 34.18,
+      "reason": "monthly_rebalance"
+    },
+    {
+      "date": "2026-09-01",
+      "symbol": "XLE",
+      "action": "SELL",
+      "shares": 7,
+      "price": 63.96,
+      "amount": 447.72,
+      "trading_cost": 0.48,
+      "reason": "monthly_rebalance"
+    },
+    {
+      "date": "2026-09-01",
+      "symbol": "XLV",
+      "action": "SELL",
+      "shares": 194,
+      "price": 170.54,
+      "amount": 33084.76,
+      "trading_cost": 34.05,
+      "reason": "monthly_rebalance"
+    },
+    {
+      "date": "2026-09-01",
+      "symbol": "GLD",
+      "action": "BUY",
+      "shares": 82,
+      "price": 408.42,
+      "amount": 33490.44,
+      "trading_cost": 33.9,
+      "reason": "monthly_rebalance"
+    }
+  ],
+  "last_run_summary": "[2026-09-02] Equity: $99,487.26 (started at $100,000.00, -0.51% all-time)\nNo rebalance today (last done for 2026-09)."
+}
