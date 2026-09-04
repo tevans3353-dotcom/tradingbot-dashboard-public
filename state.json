@@ -82,6 +82,10 @@
     {
       "date": "2026-09-03",
       "equity": NaN
+    },
+    {
+      "date": "2026-09-04",
+      "equity": NaN
     }
   ],
   "trade_log": [
@@ -146,5 +150,5 @@
       "reason": "monthly_rebalance"
     }
   ],
-  "last_run_summary": "[2026-09-03] Equity: $nan (started at $100,000.00, +nan% all-time)\nNo rebalance today (last done for 2026-09)."
+  "last_run_summary": "[2026-09-04] Equity: $nan (started at $100,000.00, +nan% all-time)\nNo rebalance today (last done for 2026-09)."
 }
