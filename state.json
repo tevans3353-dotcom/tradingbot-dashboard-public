@@ -82,6 +82,10 @@
     {
       "date": "2026-09-05",
       "equity": 100930.27
+    },
+    {
+      "date": "2026-09-06",
+      "equity": 100588.42
     }
   ],
   "trade_log": [
@@ -146,5 +150,5 @@
       "reason": "monthly_rebalance"
     }
   ],
-  "last_run_summary": "[2026-09-05] Equity: $100,930.27 (started at $100,000.00, +0.93% all-time)\nNo rebalance today (last done for 2026-09)."
+  "last_run_summary": "[2026-09-06] Equity: $100,588.42 (started at $100,000.00, +0.59% all-time)\nNo rebalance today (last done for 2026-09)."
 }
